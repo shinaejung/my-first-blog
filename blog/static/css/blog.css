@@ -23,7 +23,7 @@ h1 a{
 
 .date {
     float: right;
-    color: #828282;
+    color: #000000;
 }
 
 .save {
@@ -47,5 +47,5 @@ h1 a{
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #626262;
+    color: #000000;
 }
