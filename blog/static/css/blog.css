@@ -6,7 +6,7 @@ h1 a{
   font-family: 'Lobster';
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #009dff;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -19,10 +19,6 @@ h1 a{
 
 .content {
     margin-left: 40px;
-}
-
-h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
 }
 
 .date {
@@ -43,6 +39,7 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 .post {
@@ -50,5 +47,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #000000;
+    color: #626262;
 }
